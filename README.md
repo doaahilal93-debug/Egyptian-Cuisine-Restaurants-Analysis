@@ -69,6 +69,5 @@ The dashboard focuses on:
 
 ## Dataset
 
-Due to large size, dataset is available here:
-
-[Download Dataset](PUT GOOGLE DRIVE LINK HERE)
+Full dataset processed using Databricks.  
+Sample dataset is included in this repository.
