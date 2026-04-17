@@ -69,5 +69,8 @@ The dashboard focuses on:
 
 ## Dataset
 
-Full dataset processed using Databricks.  
-Sample dataset is included in this repository.
+This project analyzes a large-scale dataset with 11,110,000 rows.
+
+Databricks was used for handling, cleaning, and transforming big data efficiently.
+
+A sample dataset is included in this repository for reference.
