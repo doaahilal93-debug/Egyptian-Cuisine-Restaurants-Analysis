@@ -1,4 +1,4 @@
-# Egyptian Cuisine Restaurants Analysis 🍽️
+# Egyptian Cuisine Restaurants Analysis 
 
 ## Overview
 This project analyzes restaurant performance for Egyptian cuisine restaurants using Power BI.
