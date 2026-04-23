@@ -23,9 +23,9 @@ The dashboard focuses on:
 
 ## Main KPIs
 
-- Net Revenue: 2.9bn
+- Net Revenue: 2.898bn
 - Total Orders: 2.5M
-- Avg Order Value: 1K
+- Avg Order Value: 1.2K
 - Customers: 200K
 - Returning Customers: 97.5%
 
@@ -45,6 +45,8 @@ The dashboard focuses on:
 ### Insights
 ![image](4.png)
 
+### Data Model
+![image](5.png)
 ---
 
 ## Key Insights
